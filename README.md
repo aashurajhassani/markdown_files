@@ -19,3 +19,6 @@ _Italics_
 Links
 [Visit website- Title](https://learncodeonline.in)
 [Visit website- Title](https://learncodeonline.in "LCO this text will appear while hovering mouse on this link")
+
+Images
+![LCO Mascot](https://learncodeonline.in/mascot.png)
