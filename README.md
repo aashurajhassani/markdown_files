@@ -38,12 +38,21 @@ Tables
 
 >this is a quote. Keep smiling and work harder.
 
-Lists-
+Numbered lists
 1. List one
 2. List two
 3. List three
 
-The strange part about lists
+The strange part about numbered lists
 1. List one
 1. List two
 1. List three
+
+Bullet lists (unordered lists)
+- List one
+- List two
+- List three
+
+Drawing lines
+---
+***
