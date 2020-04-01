@@ -9,3 +9,13 @@ normal text
 #### heading 4
 ##### heading 5
 ###### heading 6
+
+_Italics_
+
+**Strong/Bold**
+
+~~10000~~
+
+Links
+[Visit website- Title]{https://learncodeonline.in}
+[Visit website- Title]{https://learncodeonline.in "LCO this text will appear while hovering mouse on this link"}
