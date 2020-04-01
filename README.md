@@ -37,3 +37,13 @@ Tables
 |one |two |three |
 
 >this is a quote. Keep smiling and work harder.
+
+Lists-
+1. List one
+2. List two
+3. List three
+
+The strange part about lists
+1. List one
+1. List two
+1. List three
