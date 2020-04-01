@@ -17,5 +17,5 @@ _Italics_
 ~~10000~~
 
 Links
-[Visit website- Title]{https://learncodeonline.in}
-[Visit website- Title]{https://learncodeonline.in "LCO this text will appear while hovering mouse on this link"}
+[Visit website- Title](https://learncodeonline.in)
+[Visit website- Title](https://learncodeonline.in "LCO this text will appear while hovering mouse on this link")
