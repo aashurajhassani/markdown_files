@@ -22,3 +22,16 @@ Links
 
 Images
 ![LCO Mascot](https://learncodeonline.in/mascot.png)
+![LCO Mascot](https://learncodeonline.in/mascot.png "LCO This text will appear while hovering mouse on this image")
+
+use`for` loop. for looks like a code part.
+
+```javascript
+var name = "aashuraj";
+console.log(name)
+```
+
+Tables
+|Table |Goes |Here |
+|--- |---|--- |
+|one |two |three |
