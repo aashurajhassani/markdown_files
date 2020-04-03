@@ -1,5 +1,9 @@
 # Team 1 - Team_name
 >Tagline
+Tables
+|Table |Goes |Here |
+|--- |---|--- |
+|one |two |three |
 |Problem Number |Team member |
 |--- |--- |
 |Problem 1 |[Aashuraj Hassani](https://github.com/aashurajhassani "Go to the GitHub profile.") |
