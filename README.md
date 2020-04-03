@@ -49,7 +49,7 @@ The strange part about numbered lists
 1. List three
 
 Bullet lists (unordered lists)
-### - List one
+- List one
 - List two
 - List three
 
